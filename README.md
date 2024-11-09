@@ -28,13 +28,13 @@ To run the Hill cipher implementation:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/hill-cipher.git
-   cd hill-cipher
+   git clone https://github.com/RonakSharma11/CustomCipher.git
+   cd HillCipher
 Ensure you have Python installed along with the required libraries (numpy).
 
 Run the main script:
   ```bash
-  python hill_cipher.py
+  python HillCipher.py
   ```
 
 ## Example
